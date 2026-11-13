@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "icons": "node scripts/icons.mjs",
-    "serve": "python3 -m http.server 8080"
+    "serve": "python3 -m http.server 8080",
+    "deploy": "sh scripts/deploy.sh"
   },
   "devDependencies": { "@resvg/resvg-js": "^2.6.2" }
 }
