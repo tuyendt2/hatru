@@ -1,5 +1,5 @@
 // Offline cache for the app shell. Bump VERSION on every deploy.
-const VERSION = "loi-ru-v1";
+const VERSION = "loi-ru-v2";
 const SHELL = ["./", "./index.html", "./style.css", "./app.js", "./manifest.webmanifest",
   "./icons/icon.svg", "./icons/icon-180.png", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/icon-512-maskable.png"];
 
